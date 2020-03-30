@@ -1,6 +1,6 @@
 # THIS IS THE MIDTERM PROJECT ABOUT A HIPPO MADE OUT OF METAL..!
 
-## INTRODUCTION
+## INTRODUCTION AND EARLY DRAFT
 
 -For my midterm project, I wanted to create a moving automaton that resembled a Hippopotamus and was made out of metal. Why? I thought it was a cool idea. 
 
