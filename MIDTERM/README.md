@@ -1,6 +1,6 @@
-## THIS IS THE MIDTERM PROJECT ABOUT A HIPPO MADE OUT OF METAL..!
+# THIS IS THE MIDTERM PROJECT ABOUT A HIPPO MADE OUT OF METAL..!
 
-# INTRODUCTION
+## INTRODUCTION
 
 -For my midterm project, I wanted to create a moving automaton that resembled a Hippopotamus and was made out of metal. Why? I thought it was a cool idea. 
 
@@ -8,7 +8,7 @@
 
 A short video of the prototype can be downloaded and viewed [here](https://github.com/Carlos-A-Paez-G/MachineLab/blob/master/MIDTERM/Fire%20Hippo%20Vid.mp4)
 
-# MIDTERM CHANGES
+## MIDTERM CHANGES
 
 -When transitioning from the cardboard prototype to the midterm project, there were two things I needed to incorporate: the use of both a stepper motor and a servo motor, and I wanted to move from cardboard to metal (aluminium). The following image shows a general idea of what I wanted the final product to look like and where it would incorporate the two motors. 
 
@@ -24,7 +24,7 @@ A short video of the prototype can be downloaded and viewed [here](https://githu
 
 ![Metal Hippo Measurements 1](MetalHippoMeasurements1.jpg)
 
-# EXPECTED CHALLENGES
+## EXPECTED CHALLENGES
 
 -**Screws**: The pieces of metal we were able to work with were really thin! So when screwing things together, I feel like it would have been difficult to cover up certain portruding screws, particularly with the servo to the head, as the screws would have had to point towards the outside of the head. Maybe I could have found a way to justify these aesthetically, or maybe I would have found a way to wrap the hippo in something so that these awkward imperfections remain hidden.
 
