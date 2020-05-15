@@ -1,5 +1,6 @@
-# This is the final :^)
+# Final - Journal
 
+### Early Concept (March)
 
 ![Sketch1](finalSketch1.jpg)
 
@@ -15,3 +16,7 @@
 **What materials will you use:** Aluminum?
 
 **Different levels of activity:** The head slowly comes up until its intended time when it is fully up and then it can give hugs. Maybe from that moment onwards it starts to close and if it closes all the way without receiving a hug it gets sad or something. Maybe it can give multiple hugs during the given time frame and the more hugs it gives something special happens. 
+
+
+### Designing Individual Pieces (April)
+
