@@ -90,17 +90,17 @@ Creating the mechanism for the arms took quite a bit of trial and error and ulti
 
 I started off by simply creating the different pieces that would join together. I got a shaft from McMaster Carr, which might be what I attach to the central linkage to make it turn with the motor. Then I made the three linkages and joined them together with revolute joints. I made two rectangles that would serve as the rail and I made a sort of bolt with a wheel (a tall cylinder attached to a short wide cylinder), which is what attaches to the rail to move back and forth with a slider joint. I also another piece that attaches to the rail which would then be attached to the arms and push them back and forth. 
 
-![LinkagesOne](HuggingMechanismsOne.png)
+![LinkagesOne](HuggingMechanismOne.png)
 
-![LinkagesTwo](HuggingMechanismsTwo.png)
+![LinkagesTwo](HuggingMechanismTwo.png)
 
-![LinkagesThree](HuggingMechanismsThree.png)
+![LinkagesThree](HuggingMechanismThree.png)
 
 This first attempt did not really work. When turning on collision and grounding the rails, nothing would move. I tried changing the parameters of the parts to see if anything might make it work, but I could not find a systematic way to troubleshoot the problem efficiently. So I just decided to open a new Fusion file and make the system again from scratch.
 
 This time it went a lot better. Everything is pretty much the same as last time, except this time I also made a piece that joins together the linkages and the piece that attaches to the arm. In this model, the arms are also attached to the ends of the pieces, so it shows how they will move back and forth with the linkages.
 
-![LinkagesFour](HuggingMechanismsFour.png)
+![LinkagesFour](HuggingMechanismFour.png)
 
 ![LinkagesGif](ezgif.com-video-to-gif.gif)
 
