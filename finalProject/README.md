@@ -100,25 +100,23 @@ This first attempt did not really work. When turning on collision and grounding 
 
 This time it went a lot better. Everything is pretty much the same as last time, except this time I also made a piece that joins together the linkages and the piece that attaches to the arm. In this model, the arms are also attached to the ends of the pieces, so it shows how they will move back and forth with the linkages.
 
-[[Linkages image]]
+![LinkagesFour](HuggingMechanismsFour.png)
+
+![LinkagesGif](ezgif.com-video-to-gif.gif)
 
 I tried to attach a piece in the middle that would allow the arms to pivot in the middle and close in the front when pushed out in the back, but when I tried grounding the central piece, it did not work. I tried to ask Dustin to see if he might know the solution to it, but he couldn’t seem to figure it out either. 
-
-[[Linkages 2.0 video]]
-
-[[Linkages picture]]
 
 ### Working on the head mechanism
 
 For the head, I decided to use a vertical rack and pinion. I imported models of these from McMaster Carr, but ultimately did not have time to figure out how to implement them into Fusion 360. Here is an image of the early model I made for the head and the imported models of the rack, pinion, and stepper motor that would be used in the head mechanism.
 
-[[Head image]]
+![Head](Head.png)
 
-[[rack and pinion image]]
+![HeadParts](HeadMechanism.png)
 
 Despite this I had some time to think about what the process of actually making this mechanism would be like. So I did some research as to what it would be like to set up a vertical rack and pinion mechanism and I came across this image: 
 
-[[Vertical rack and pinion]]
+![RackStructure](RackAndPinionStructure.png)
 
 From looking at this image, I could deduce that I would need a frame that would keep the rack from moving in any direction but up and down. It would also be good if the same frame could hold the motor. Attaching the pinion directly to the motor also seems like a good idea, since it will probably give the most possible torque to the structure (a note for everything in this project is that it makes sense in pretty much all cases to prioritize torque over speed for the motors, since nothing needs to move too fast). This structure would also need to be attached to the shell. In order to keep the rack from falling off the structure, since this probably wants to be as high as possible in the shell, to leave the lower area for the arms mechanism, I will probably want to find a way to attach the rack to the head. Since the head is larger than the hole for the rack in the frame, if the two are attached together the head should keep the rack from falling off. These could be attached by using a metal piece that is screwed on one end to the rack and on another end to the head.
 
